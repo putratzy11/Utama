@@ -60,15 +60,15 @@ restoreBackUp(){
     yarn build:production
     sudo php artisan optimize:clear
 }
-echo "ZassXdOfficial"
+echo "Wallpaper By Putra Official"
 echo "AUTO INSTALL THEME"
+echo "COMMAND INSTALL THEMA BY PUTRA OFFICIAL"
+echo "Wa: +6285697886101"
+echo "Nama: PUTRA OFFICIAL"
 echo ""
-echo "Wa: +63 821-2614-8789"
-echo "Nama: ZassXdOfficial"
-echo ""
-echo "[1] Install theme"
+echo "[1] Install Thema Wallpaper"
 echo "[2] Restore backup"
-echo "[3] Repair panel (use if you have an error in the theme installation)"
+echo "[3] Delete Thema Wallpaper"
 echo "[4] Exit"
 
 read -p "Please enter a number: " choice
