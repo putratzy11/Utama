@@ -61,17 +61,21 @@ restoreBackUp(){
     sudo php artisan optimize:clear
 }
 echo "Wallpaper By Putra Official"
-echo "AUTO INSTALL THEME"
 echo "COMMAND INSTALL THEMA BY PUTRA OFFICIAL"
+
 echo "Wa: +6285697886101"
-echo "Nama: PUTRA OFFICIAL"
-echo ""
+echo "Youtube: PUTRA OFFICIAL"
+echo "Instagram: @ysffsptraa"
+
+echo "BUAT KAMU YANG BUTUH VPS MURAH & BERGARANSI LANGSUNG"
+echo "HUBUNGI NOMOR WHATSAPP PUTRA OFFICIAL DI ATAS INI"
+
 echo "[1] Install Thema Wallpaper"
 echo "[2] Restore backup"
 echo "[3] Delete Thema Wallpaper"
 echo "[4] Exit"
 
-read -p "Please enter a number: " choice
+read -p "Silahkan Pilih Nomor Sesuai Command Yang Anda Inginkan: " choice
 if [ $choice == "1" ]
     then
     installThemeQuestion
